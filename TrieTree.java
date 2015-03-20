@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class TrieTree {
+	
 	/* subclass TrieNode */
 	public class TrieNode {
 		private boolean isInTree;
